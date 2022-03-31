@@ -93,6 +93,3 @@ FROM bitnami/prestashop:1.7.8-3
 
 # Tags: 1.7.8-3-debian-10-r30
 FROM bitnami/prestashop:1.7.8-3-debian-10-r30
-
-# Tags: 1.7.8-3-debian-10-r28
-FROM bitnami/prestashop:1.7.8-3-debian-10-r28
