@@ -79,6 +79,3 @@ FROM bitnami/prestashop:1.7.8-5-debian-10-r17
 
 # Tags: 1.7.8-5-debian-10-r16
 FROM bitnami/prestashop:1.7.8-5-debian-10-r16
-
-# Tags: 1.7.8-5-debian-10-r15
-FROM bitnami/prestashop:1.7.8-5-debian-10-r15
