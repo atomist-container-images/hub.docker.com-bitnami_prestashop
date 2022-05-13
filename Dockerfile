@@ -1,12 +1,39 @@
-# Tags: latest, 1.7.8-5-debian-10-r40, 1.7.8-5, 1.7-debian-10, 1.7
+# Tags: latest, 1.7.8-5-debian-10-r49, 1.7.8-5, 1.7-debian-10, 1.7
 FROM bitnami/prestashop:latest
-FROM bitnami/prestashop:1.7.8-5-debian-10-r40
+FROM bitnami/prestashop:1.7.8-5-debian-10-r49
 FROM bitnami/prestashop:1.7.8-5
 FROM bitnami/prestashop:1.7-debian-10
 FROM bitnami/prestashop:1.7
 
 # Tags: _
 FROM bitnami/prestashop:_
+
+# Tags: 1.7.8-5-debian-10-r48
+FROM bitnami/prestashop:1.7.8-5-debian-10-r48
+
+# Tags: 1.7.8-5-debian-10-r47
+FROM bitnami/prestashop:1.7.8-5-debian-10-r47
+
+# Tags: 1.7.8-5-debian-10-r46
+FROM bitnami/prestashop:1.7.8-5-debian-10-r46
+
+# Tags: 1.7.8-5-debian-10-r45
+FROM bitnami/prestashop:1.7.8-5-debian-10-r45
+
+# Tags: 1.7.8-5-debian-10-r44
+FROM bitnami/prestashop:1.7.8-5-debian-10-r44
+
+# Tags: 1.7.8-5-debian-10-r43
+FROM bitnami/prestashop:1.7.8-5-debian-10-r43
+
+# Tags: 1.7.8-5-debian-10-r42
+FROM bitnami/prestashop:1.7.8-5-debian-10-r42
+
+# Tags: 1.7.8-5-debian-10-r41
+FROM bitnami/prestashop:1.7.8-5-debian-10-r41
+
+# Tags: 1.7.8-5-debian-10-r40
+FROM bitnami/prestashop:1.7.8-5-debian-10-r40
 
 # Tags: 1.7.8-5-debian-10-r39
 FROM bitnami/prestashop:1.7.8-5-debian-10-r39
@@ -49,33 +76,3 @@ FROM bitnami/prestashop:1.7.8-5-debian-10-r27
 
 # Tags: 1.7.8-5-debian-10-r26
 FROM bitnami/prestashop:1.7.8-5-debian-10-r26
-
-# Tags: 1.7.8-5-debian-10-r25
-FROM bitnami/prestashop:1.7.8-5-debian-10-r25
-
-# Tags: 1.7.8-5-debian-10-r24
-FROM bitnami/prestashop:1.7.8-5-debian-10-r24
-
-# Tags: 1.7.8-5-debian-10-r23
-FROM bitnami/prestashop:1.7.8-5-debian-10-r23
-
-# Tags: 1.7.8-5-debian-10-r22
-FROM bitnami/prestashop:1.7.8-5-debian-10-r22
-
-# Tags: 1.7.8-5-debian-10-r21
-FROM bitnami/prestashop:1.7.8-5-debian-10-r21
-
-# Tags: 1.7.8-5-debian-10-r20
-FROM bitnami/prestashop:1.7.8-5-debian-10-r20
-
-# Tags: 1.7.8-5-debian-10-r19
-FROM bitnami/prestashop:1.7.8-5-debian-10-r19
-
-# Tags: 1.7.8-5-debian-10-r18
-FROM bitnami/prestashop:1.7.8-5-debian-10-r18
-
-# Tags: 1.7.8-5-debian-10-r17
-FROM bitnami/prestashop:1.7.8-5-debian-10-r17
-
-# Tags: 1.7.8-5-debian-10-r16
-FROM bitnami/prestashop:1.7.8-5-debian-10-r16
